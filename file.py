@@ -12,5 +12,6 @@ def add(a: int, b: int) -> int:
     :param b:
     :return:
     """
+    print(a + b)
     return a + b
 
