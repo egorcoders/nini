@@ -1,4 +1,4 @@
-def fn():
+def fn() -> None:
     """
     Add 'hi'
     :return:
